@@ -1,0 +1,1 @@
+Key.print_screen'r''o''b''o''t'Key.enter'r'Key.backspaceKey.backspace'h''a''r''s''h''a'Key.print_screenKey.enterKey.print_screen
